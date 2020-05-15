@@ -1,5 +1,6 @@
 {
-	"name": "Anushka P",
+	"name": "FCC",
+	"author": "Anushka P",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
